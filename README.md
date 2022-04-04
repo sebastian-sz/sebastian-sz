@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Sebastian and I'm a Machine Learning Engineer @ Noctuai.
+My name is Sebastian and I'm a Machine Learning Engineer @ Software Mill.
 
 ### My projects:
 Be sure to check out my pinned projects below!
