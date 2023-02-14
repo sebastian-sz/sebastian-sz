@@ -6,7 +6,6 @@ Be sure to check out my pinned projects below!
 * `efficientnet-lite-keras` are lightweight computer vision models (rewritten for Keras Functional API).
 * `efficientnet-v2-keras` are 2nd generation of EfficientNet vision models (rewritten for Keras Functional API).
 * `resnet-rs-keras` are "renewed" ResNet vision models (rewritten for Keras Functional API).
-* `GotwockAppServer` is a simple webserver in Go, that provides info about interesting places in a small town called Otwock.
 
 ### Reach me:
 * Email: `szymanskisebastian93@gmail.com`
